@@ -1,6 +1,6 @@
 # Desafio em C
 
-##Faça um programa que carregue três vetores nos quais serão armazenados os códigos, os salários e o tempo de serviço, em anos, de cinco funcionários. Posteriormente, o programa deverá:
+## Faça um programa que carregue três vetores nos quais serão armazenados os códigos, os salários e o tempo de serviço, em anos, de cinco funcionários. Posteriormente, o programa deverá:
 
 ## a) Receber um valor que corresponde ao salário a ser consultado e, em seguida, mostrar dois relatórios. Cada relatório deverá mostrar o código do funcionário e o salário. O primeiro relatório deve mostrar os funcionários que tem salário até o valor digitado e o segundo relatório deve mostrar os funcionários que possuem salário superior ao valor digitado. Caso não exista nenhum funcionário em algum dos relatórios, mostrar mensagem.
 
