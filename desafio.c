@@ -24,7 +24,6 @@ int main(){
         //system("cls");
         printf("\n");
     }
-
     system("cls"); 
 
     printf("cod.|sal.|temp ser\n\n");
